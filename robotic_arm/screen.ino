@@ -16,8 +16,6 @@ void screen_setup() {
   display.clearDisplay();
 }
 
-
-
 void outputToScreen(String text,String text2) {
   display.clearDisplay();
 
